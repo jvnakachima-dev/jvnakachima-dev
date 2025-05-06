@@ -27,8 +27,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvnakachima-dev&show_icons=true&theme=mindinight-purple" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnakachima-dev&layout=compact&theme=mindinight-purple" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jvnakachima-dev&show_icons=true&theme=mindinight-purplev=2" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnakachima-dev&layout=compact&theme=mindinight-purplev=2" height="150"/>
 
 
 </p>
